@@ -1,1 +1,2 @@
-vendor/\n.DS_Store
+vendor/
+.DS_Store
