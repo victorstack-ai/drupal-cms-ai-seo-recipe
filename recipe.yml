@@ -1,0 +1,10 @@
+name: 'AI-driven SEO'
+description: 'Enables AI-powered SEO tools including Metatag, Pathauto, and AI generation features.'
+type: 'SEO'
+install:
+  - metatag
+  - metatag_open_graph
+  - pathauto
+  - redirect
+  - simple_sitemap
+  - ai
